@@ -1,7 +1,7 @@
 terraform {
 
   cloud {
-    organization = "myorg"
+    organization = "55-org"
 
     workspaces {
       name = "terraform-azure-virtual-machine"
